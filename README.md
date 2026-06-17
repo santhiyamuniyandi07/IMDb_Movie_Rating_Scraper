@@ -36,4 +36,4 @@ python imdb_scraper.py
 
 ## Author
 
-Santhosh
+Santhiya Muniyandi
